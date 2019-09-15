@@ -3,8 +3,8 @@
 This is a holder for the 4x 24V IKEA Ledberg Spots.
 
 - Print-Settings:
-Default Voron2 Parts Print Settings
-No Supports needed
+Default Voron2 parts print settings,
+no supports needed
 
 - How to install
 Put the LED Insert into the mount, rotate it until you can connect the plug and then 
