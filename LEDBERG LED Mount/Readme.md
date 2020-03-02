@@ -10,4 +10,4 @@ no supports needed
 Put the LED Insert into the mount, rotate it until you can connect the plug and then 
 install the complete assembly to the left and right top extrusions. 
 
-I recomment to run the wires through the extrusions and cover it with some extrusion cover inserts.
+I recommend to run the wires through the extrusions and cover it with some extrusion cover inserts.
